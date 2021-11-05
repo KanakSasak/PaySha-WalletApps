@@ -1,0 +1,263 @@
+{
+  "project_info": {
+    "project_number": "760905607821",
+    "firebase_url": "https://gotrans-project.firebaseio.com",
+    "project_id": "gotrans-project",
+    "storage_bucket": "gotrans-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760905607821:android:b4698785fd5bd7434bd0c4",
+        "android_client_info": {
+          "package_name": "com.gotrans.driver.com.gotrans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760905607821-77todaokecdencrgr268keut1vn72s99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gotrans.driver.com.gotrans",
+            "certificate_hash": "cb53cc3d6e0f0fbd69741654ac47b53fe14f1161"
+          }
+        },
+        {
+          "client_id": "760905607821-88l41onhg7ii8hn7p9pn4cfgsmea24aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gotrans.driver.com.gotrans",
+            "certificate_hash": "f33ee267b0ce3bae08b48230ea5ca88b0386ace4"
+          }
+        },
+        {
+          "client_id": "760905607821-d7qub4868b5vb5b56nclp9uo3e3ia90v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gotrans.driver.com.gotrans",
+            "certificate_hash": "b17499f85949b234a5ee0ef723ceb3e612802759"
+          }
+        },
+        {
+          "client_id": "760905607821-hffj3prcjcgjun2t28lgg57b8f1h5rvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gotrans.driver.com.gotrans",
+            "certificate_hash": "fe4dfaa3bed20ef6622e2ba911781059efc9e084"
+          }
+        },
+        {
+          "client_id": "760905607821-i7stab3n24v5qsuo8s6udfrbiei5ai85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gotrans.driver.com.gotrans",
+            "certificate_hash": "36afaa5e11b1431506b0b024052f29a860a64e97"
+          }
+        },
+        {
+          "client_id": "760905607821-m5hnnfldmb2rius1fnmpc3h3tfftsvmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gotrans.driver.com.gotrans",
+            "certificate_hash": "7f7b37d3891b1485ac881c96cea32b1fb5885bed"
+          }
+        },
+        {
+          "client_id": "760905607821-45o7fgmb6fblpr2ia6g7hhusj4j38t1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoG8LGeRerS2O7_sRsEj902dvKvRvVpIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111007298447383734989",
+              "client_type": 3
+            },
+            {
+              "client_id": "760905607821-cib69ou7gu0h9oquo7potgj2sjr5rsvn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gotransuserr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760905607821:android:8ac935317f95d7744bd0c4",
+        "android_client_info": {
+          "package_name": "com.gotrans.pos.com.gotrans_mobile_pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760905607821-t9mlufivjcq04ot5v5un8bseiftbq0is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gotrans.pos.com.gotrans_mobile_pos",
+            "certificate_hash": "2daa116ce5aedb66aa23cbbe77cf71053a0c5af2"
+          }
+        },
+        {
+          "client_id": "760905607821-45o7fgmb6fblpr2ia6g7hhusj4j38t1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoG8LGeRerS2O7_sRsEj902dvKvRvVpIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111007298447383734989",
+              "client_type": 3
+            },
+            {
+              "client_id": "760905607821-cib69ou7gu0h9oquo7potgj2sjr5rsvn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gotransuserr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760905607821:android:e8353d6935f3564e4bd0c4",
+        "android_client_info": {
+          "package_name": "com.gotrans.tools.com.gotrans.scanqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760905607821-45o7fgmb6fblpr2ia6g7hhusj4j38t1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoG8LGeRerS2O7_sRsEj902dvKvRvVpIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111007298447383734989",
+              "client_type": 3
+            },
+            {
+              "client_id": "760905607821-cib69ou7gu0h9oquo7potgj2sjr5rsvn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gotransuserr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760905607821:android:1470854566f75af34bd0c4",
+        "android_client_info": {
+          "package_name": "com.gotrans.user.com.gotrans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760905607821-aqu2schq3him6tgkrsa58n0lv7elsltm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gotrans.user.com.gotrans",
+            "certificate_hash": "fe4dfaa3bed20ef6622e2ba911781059efc9e084"
+          }
+        },
+        {
+          "client_id": "760905607821-tgmhqkghgao14jsjmmc8m1ih2ogkbieu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gotrans.user.com.gotrans",
+            "certificate_hash": "36afaa5e11b1431506b0b024052f29a860a64e97"
+          }
+        },
+        {
+          "client_id": "760905607821-45o7fgmb6fblpr2ia6g7hhusj4j38t1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoG8LGeRerS2O7_sRsEj902dvKvRvVpIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111007298447383734989",
+              "client_type": 3
+            },
+            {
+              "client_id": "760905607821-cib69ou7gu0h9oquo7potgj2sjr5rsvn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gotransuserr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760905607821:android:c1d383c8720ab6134bd0c4",
+        "android_client_info": {
+          "package_name": "com.paysha.sharia.pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760905607821-45o7fgmb6fblpr2ia6g7hhusj4j38t1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoG8LGeRerS2O7_sRsEj902dvKvRvVpIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111007298447383734989",
+              "client_type": 3
+            },
+            {
+              "client_id": "760905607821-cib69ou7gu0h9oquo7potgj2sjr5rsvn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gotransuserr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
