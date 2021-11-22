@@ -1,11 +1,11 @@
 import 'dart:io';
 
-import 'package:e_wallet_new/common/exception.dart';
-import 'package:e_wallet_new/data/datasources/user_remote_data_source.dart';
-import 'package:e_wallet_new/domain/entities/user.dart';
-import 'package:e_wallet_new/common/failure.dart';
+import 'package:Paysha/common/exception.dart';
+import 'package:Paysha/data/datasources/user_remote_data_source.dart';
+import 'package:Paysha/domain/entities/user.dart';
+import 'package:Paysha/common/failure.dart';
 import 'package:dartz/dartz.dart';
-import 'package:e_wallet_new/domain/repositories/user_repository.dart';
+import 'package:Paysha/domain/repositories/user_repository.dart';
 import 'package:logger/logger.dart';
 
 class UserRepositoryImpl implements UserRepository {

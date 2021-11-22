@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:e_wallet_new/domain/entities/wallet.dart';
+import 'package:Paysha/domain/entities/wallet.dart';
 import 'package:equatable/equatable.dart';
 
 WalletModel walletModelFromJson(String str) =>

@@ -1,12 +1,12 @@
 import 'dart:io';
 
-import 'package:e_wallet_new/common/exception.dart';
-import 'package:e_wallet_new/data/datasources/wallet_remote_data_source.dart';
-import 'package:e_wallet_new/domain/entities/balance.dart';
-import 'package:e_wallet_new/common/failure.dart';
+import 'package:Paysha/common/exception.dart';
+import 'package:Paysha/data/datasources/wallet_remote_data_source.dart';
+import 'package:Paysha/domain/entities/balance.dart';
+import 'package:Paysha/common/failure.dart';
 import 'package:dartz/dartz.dart';
-import 'package:e_wallet_new/domain/entities/wallet.dart';
-import 'package:e_wallet_new/domain/repositories/wallet_repository.dart';
+import 'package:Paysha/domain/entities/wallet.dart';
+import 'package:Paysha/domain/repositories/wallet_repository.dart';
 import 'package:logger/logger.dart';
 
 class WalletRepositoryImpl implements WalletRepository {

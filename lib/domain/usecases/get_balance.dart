@@ -1,7 +1,7 @@
 import 'package:dartz/dartz.dart';
-import 'package:e_wallet_new/common/failure.dart';
-import 'package:e_wallet_new/domain/entities/balance.dart';
-import 'package:e_wallet_new/domain/repositories/wallet_repository.dart';
+import 'package:Paysha/common/failure.dart';
+import 'package:Paysha/domain/entities/balance.dart';
+import 'package:Paysha/domain/repositories/wallet_repository.dart';
 
 class GetBalance {
   final WalletRepository repository;

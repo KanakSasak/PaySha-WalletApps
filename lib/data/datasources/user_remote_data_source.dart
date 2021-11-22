@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:e_wallet_new/common/exception.dart';
-import 'package:e_wallet_new/data/models/user_response_model.dart';
-import 'package:e_wallet_new/domain/entities/user.dart';
+import 'package:Paysha/common/exception.dart';
+import 'package:Paysha/data/models/user_response_model.dart';
+import 'package:Paysha/domain/entities/user.dart';
 import 'package:http/http.dart' as http;
 import 'package:logger/logger.dart';
 
@@ -18,7 +18,7 @@ abstract class UserRemoteDataSource {
 }
 
 class UserRemoteDataSourceImpl implements UserRemoteDataSource {
-  static const BASE_URL = "https://a8c0-36-90-123-166.ngrok.io/v1/cust/auth";
+  static const BASE_URL = "https://container-service-paysha.s1a47d4pnapo4.ap-southeast-1.cs.amazonlightsail.com/v1/cust/auth";
 
   final http.Client client;
 

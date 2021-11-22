@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:e_wallet_new/common/exception.dart';
-import 'package:e_wallet_new/data/models/balance_model.dart';
-import 'package:e_wallet_new/data/models/wallet_model.dart';
+import 'package:Paysha/common/exception.dart';
+import 'package:Paysha/data/models/balance_model.dart';
+import 'package:Paysha/data/models/wallet_model.dart';
 import 'package:http/http.dart' as http;
 import 'package:logger/logger.dart';
 
@@ -17,7 +17,7 @@ abstract class WalletRemoteDataSource {
 
 class WalletRemoteDataSourceImpl implements WalletRemoteDataSource {
   static const BASE_URL =
-      "https://a8c0-36-90-123-166.ngrok.io/v1/cust/get/wallet";
+      "https://container-service-paysha.s1a47d4pnapo4.ap-southeast-1.cs.amazonlightsail.com/v1/cust/get/wallet";
 
   final http.Client client;
 
@@ -49,7 +49,7 @@ class WalletRemoteDataSourceImpl implements WalletRemoteDataSource {
   ) async {
     final response = await client.post(
       Uri.parse(
-        "http://a8c0-36-90-123-166.ngrok.io/v1/cust/bayar/$walletId/$amount",
+        "https://container-service-paysha.s1a47d4pnapo4.ap-southeast-1.cs.amazonlightsail.com/v1/cust/bayar/$walletId/$amount",
       ),
       headers: {'Authorization': 'Bearer $token'},
     );

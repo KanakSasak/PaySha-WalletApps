@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:e_wallet_new/domain/entities/balance.dart';
+import 'package:Paysha/domain/entities/balance.dart';
 
 BalanceModel balanceModelFromJson(String str) =>
     BalanceModel.fromJson(json.decode(str));

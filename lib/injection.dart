@@ -1,17 +1,24 @@
-import 'package:e_wallet_new/data/datasources/user_remote_data_source.dart';
-import 'package:e_wallet_new/data/datasources/wallet_remote_data_source.dart';
-import 'package:e_wallet_new/data/repositories/user_repository_impl.dart';
-import 'package:e_wallet_new/data/repositories/wallet_repository_impl.dart';
-import 'package:e_wallet_new/domain/repositories/user_repository.dart';
-import 'package:e_wallet_new/domain/repositories/wallet_repository.dart';
-import 'package:e_wallet_new/domain/usecases/get_balance.dart';
-import 'package:e_wallet_new/domain/usecases/get_transfer_balance.dart';
-import 'package:e_wallet_new/domain/usecases/get_user.dart';
-import 'package:e_wallet_new/persentation/provider/scanner_notifier.dart';
-import 'package:e_wallet_new/persentation/provider/user_notifier.dart';
-import 'package:e_wallet_new/persentation/provider/wallet_notifier.dart';
+import 'package:Paysha/persentation/provider/scanner_notifier.dart';
+import 'package:Paysha/persentation/provider/user_notifier.dart';
+import 'package:Paysha/persentation/provider/wallet_notifier.dart';
+import 'package:Paysha/data/datasources/user_remote_data_source.dart';
+import 'package:Paysha/data/datasources/wallet_remote_data_source.dart';
+import 'package:Paysha/data/repositories/user_repository_impl.dart';
+import 'package:Paysha/data/repositories/wallet_repository_impl.dart';
+import 'package:Paysha/domain/repositories/user_repository.dart';
+import 'package:Paysha/domain/repositories/wallet_repository.dart';
+import 'package:Paysha/domain/usecases/get_balance.dart';
+import 'package:Paysha/domain/usecases/get_transfer_balance.dart';
+import 'package:Paysha/domain/usecases/get_user.dart';
+import 'package:Paysha/persentation/provider/scanner_notifier.dart';
+import 'package:Paysha/persentation/provider/user_notifier.dart';
+import 'package:Paysha/persentation/provider/wallet_notifier.dart';
 import 'package:get_it/get_it.dart';
 import 'package:http/http.dart' as http;
+
+import 'domain/usecases/get_balance.dart';
+import 'domain/usecases/get_transfer_balance.dart';
+import 'domain/usecases/get_user.dart';
 
 final getIt = GetIt.instance;
 

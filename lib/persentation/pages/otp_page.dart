@@ -1,5 +1,5 @@
-import 'package:e_wallet_new/common/constants.dart';
-import 'package:e_wallet_new/persentation/pages/main_page.dart';
+import 'package:Paysha/common/constants.dart';
+import 'package:Paysha/persentation/pages/main_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 

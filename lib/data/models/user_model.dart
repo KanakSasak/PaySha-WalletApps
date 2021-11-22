@@ -1,4 +1,4 @@
-import 'package:e_wallet_new/domain/entities/user.dart';
+import 'package:Paysha/domain/entities/user.dart';
 import 'package:equatable/equatable.dart';
 
 class UserModel extends Equatable {

@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'package:e_wallet_new/common/constants.dart';
-import 'package:e_wallet_new/persentation/pages/amount_page.dart';
-import 'package:e_wallet_new/persentation/provider/scanner_notifier.dart';
+import 'package:Paysha/common/constants.dart';
+import 'package:Paysha/persentation/pages/amount_page.dart';
+import 'package:Paysha/persentation/provider/scanner_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:logger/logger.dart';
 import 'package:provider/provider.dart';

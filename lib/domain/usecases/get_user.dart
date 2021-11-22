@@ -1,7 +1,7 @@
 import 'package:dartz/dartz.dart';
-import 'package:e_wallet_new/common/failure.dart';
-import 'package:e_wallet_new/domain/entities/user.dart';
-import 'package:e_wallet_new/domain/repositories/user_repository.dart';
+import 'package:Paysha/common/failure.dart';
+import 'package:Paysha/domain/entities/user.dart';
+import 'package:Paysha/domain/repositories/user_repository.dart';
 
 class GetUser {
   final UserRepository repository;

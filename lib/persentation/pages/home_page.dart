@@ -1,9 +1,9 @@
-import 'package:e_wallet_new/common/constants.dart';
-import 'package:e_wallet_new/common/state_enum.dart';
-import 'package:e_wallet_new/data/models/moock_data.dart';
-import 'package:e_wallet_new/domain/entities/user.dart';
-import 'package:e_wallet_new/persentation/pages/scanner_page.dart';
-import 'package:e_wallet_new/persentation/provider/wallet_notifier.dart';
+import 'package:Paysha/common/constants.dart';
+import 'package:Paysha/common/state_enum.dart';
+import 'package:Paysha/data/models/moock_data.dart';
+import 'package:Paysha/domain/entities/user.dart';
+import 'package:Paysha/persentation/pages/scanner_page.dart';
+import 'package:Paysha/persentation/provider/wallet_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:provider/provider.dart';

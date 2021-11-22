@@ -1,6 +1,6 @@
-import 'package:e_wallet_new/common/constants.dart';
-import 'package:e_wallet_new/persentation/pages/qr_page.dart';
-import 'package:e_wallet_new/persentation/provider/bottom_navbar_notifier.dart';
+import 'package:Paysha/common/constants.dart';
+import 'package:Paysha/persentation/pages/qr_page.dart';
+import 'package:Paysha/persentation/provider/bottom_navbar_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:provider/provider.dart';

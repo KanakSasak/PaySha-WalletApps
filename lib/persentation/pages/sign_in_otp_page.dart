@@ -1,8 +1,8 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:device_info_plus/device_info_plus.dart';
-import 'package:e_wallet_new/common/constants.dart';
-import 'package:e_wallet_new/persentation/pages/main_page.dart';
-import 'package:e_wallet_new/persentation/provider/user_notifier.dart';
+import 'package:Paysha/common/constants.dart';
+import 'package:Paysha/persentation/pages/main_page.dart';
+import 'package:Paysha/persentation/provider/user_notifier.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';

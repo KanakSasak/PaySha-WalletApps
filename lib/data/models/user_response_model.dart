@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:e_wallet_new/data/models/user_response_data_model.dart';
+import 'package:Paysha/data/models/user_response_data_model.dart';
 import 'package:equatable/equatable.dart';
 
 UserResponse userResponseFromJson(String str) =>

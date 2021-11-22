@@ -1,4 +1,4 @@
-import 'package:e_wallet_new/common/constants.dart';
+import 'package:Paysha/common/constants.dart';
 import 'package:flutter/material.dart';
 
 class CardPage extends StatelessWidget {

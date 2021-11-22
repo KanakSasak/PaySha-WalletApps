@@ -1,4 +1,4 @@
-import 'package:e_wallet_new/data/models/user_model.dart';
+import 'package:Paysha/data/models/user_model.dart';
 import 'package:equatable/equatable.dart';
 
 class UserResponseData extends Equatable {

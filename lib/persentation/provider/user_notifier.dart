@@ -1,6 +1,6 @@
-import 'package:e_wallet_new/common/state_enum.dart';
-import 'package:e_wallet_new/domain/entities/user.dart';
-import 'package:e_wallet_new/domain/usecases/get_user.dart';
+import 'package:Paysha/common/state_enum.dart';
+import 'package:Paysha/domain/entities/user.dart';
+import 'package:Paysha/domain/usecases/get_user.dart';
 import 'package:flutter/widgets.dart';
 import 'package:logger/logger.dart';
 

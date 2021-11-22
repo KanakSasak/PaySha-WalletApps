@@ -1,10 +1,10 @@
-import 'package:e_wallet_new/common/constants.dart';
-import 'package:e_wallet_new/persentation/pages/card_page.dart';
-import 'package:e_wallet_new/persentation/pages/history_page.dart';
-import 'package:e_wallet_new/persentation/pages/home_page.dart';
-import 'package:e_wallet_new/persentation/pages/profile_page.dart';
-import 'package:e_wallet_new/persentation/provider/bottom_navbar_notifier.dart';
-import 'package:e_wallet_new/persentation/widgets/bottom_navbar_widgets.dart';
+import 'package:Paysha/common/constants.dart';
+import 'package:Paysha/persentation/pages/card_page.dart';
+import 'package:Paysha/persentation/pages/history_page.dart';
+import 'package:Paysha/persentation/pages/home_page.dart';
+import 'package:Paysha/persentation/pages/profile_page.dart';
+import 'package:Paysha/persentation/provider/bottom_navbar_notifier.dart';
+import 'package:Paysha/persentation/widgets/bottom_navbar_widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

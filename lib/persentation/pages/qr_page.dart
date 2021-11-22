@@ -1,7 +1,7 @@
 import 'package:clipboard/clipboard.dart';
-import 'package:e_wallet_new/common/constants.dart';
-import 'package:e_wallet_new/common/state_enum.dart';
-import 'package:e_wallet_new/persentation/provider/user_notifier.dart';
+import 'package:Paysha/common/constants.dart';
+import 'package:Paysha/common/state_enum.dart';
+import 'package:Paysha/persentation/provider/user_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:qr_flutter/qr_flutter.dart';

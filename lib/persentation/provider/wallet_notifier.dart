@@ -1,8 +1,8 @@
-import 'package:e_wallet_new/common/state_enum.dart';
-import 'package:e_wallet_new/domain/entities/balance.dart';
-import 'package:e_wallet_new/domain/entities/wallet.dart';
-import 'package:e_wallet_new/domain/usecases/get_balance.dart';
-import 'package:e_wallet_new/domain/usecases/get_transfer_balance.dart';
+import 'package:Paysha/common/state_enum.dart';
+import 'package:Paysha/domain/entities/balance.dart';
+import 'package:Paysha/domain/entities/wallet.dart';
+import 'package:Paysha/domain/usecases/get_balance.dart';
+import 'package:Paysha/domain/usecases/get_transfer_balance.dart';
 import 'package:flutter/widgets.dart';
 import 'package:logger/logger.dart';
 
